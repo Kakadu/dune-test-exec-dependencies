@@ -1,8 +1,8 @@
 (cram
  (deps
-  %{workspace_root}/src/mylinter
-  %{workspace_root}/src/mylinter.exe
-  %{bin:mylinter}
+  %{workspace_root}/src/asdf
+  %{workspace_root}/src/asdf.exe
+  %{bin:asdf}
   %{bin:qwe}
   %{workspace_root}/qwe.exe))
 
