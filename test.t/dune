@@ -1,0 +1,11 @@
+(cram
+ (deps
+  %{workspace_root}/src/mylinter
+  %{workspace_root}/src/mylinter.exe
+  %{bin:mylinter}
+  %{bin:qwe}
+  %{workspace_root}/qwe.exe))
+
+(library
+ (name lib1)
+ (modules lib1))

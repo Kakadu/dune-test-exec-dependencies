@@ -1,0 +1,4 @@
+(executable
+ (public_name qwe)
+ (package package1)
+ (name qwe))
