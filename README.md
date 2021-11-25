@@ -16,10 +16,10 @@ index 7a8053d..3afe00f 100644
    $ echo $PATH
 +  /home/kakadu/asp/dune-exec-cram-demo/_build/install/default/bin:.................................................grafted
  $ ./asdf.exe
-   $ which mylinter
+   $ which asdf
 +  [1]
-   $ mylinter
-+  mylinter: not found
+   $ asdf
++  asdf: not found
 +  [127]
    $ qwe
 +  qwe: not found

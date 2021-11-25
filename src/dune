@@ -1,4 +1,4 @@
 (executable
- (public_name mylinter)
+ (public_name asdf)
  (package package1)
  (name asdf))

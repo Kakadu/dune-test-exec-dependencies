@@ -1,6 +1,6 @@
   $ dune build
   $ echo $PATH
 $ ./asdf.exe
-  $ which mylinter
-  $ mylinter
+  $ which asdf
+  $ asdf
   $ qwe
